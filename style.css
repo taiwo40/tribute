@@ -1,0 +1,439 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    background-color:white;
+    padding-left: 15px;
+}
+ul{
+    
+    display: flex;
+    justify-content:flex-end;
+}
+li{
+padding: 35px;
+list-style: none;
+}
+.jigi{
+    position: absolute;
+    top: 3%;
+    left: 5%;
+    font-size: 40px;
+}
+.nibo{
+    color: tomato;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    left:5%;
+    top: 12%;
+    
+}
+.live{
+    position: absolute;
+    top: 16%;
+    left: 5%;
+    color: rgb(33, 33, 202);
+    font-size: 70px;
+    line-height: 1.0;
+}
+.ameno{
+    position: absolute;
+    top: 49%;
+    left: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 0.9;
+}
+.find{
+    position: absolute;
+    top: 60%;
+    color: white;
+    background-color: rgb(211, 211, 133);
+    left: 5%;
+    font-size: 30px;
+    padding: 15px 25px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.enjoy{
+    font-size: 50px;
+    color: rgb(37, 37, 155);
+    border-radius: 30px;
+    position: absolute;
+    left: 45%;
+}
+.demo{
+    position: absolute;
+    top: 62%;
+    font-size: 30px;
+    left: 20%;
+    color:white;
+    background-color: tomato;
+    border-radius: 30px;
+}
+.cat{
+    position: absolute;
+    top: 75%;
+    left: 20%;
+    font-size: 25px;
+}
+.offers{
+    position: absolute;
+    top: 80%;
+    left: 20%;
+    font-size: 15px;
+    color:blueviolet;
+
+}
+.gba{
+    color: yellowgreen;
+}
+.kk{
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    top: 87%;
+    left: 25%;
+    font-size: 25px;
+    text-align: center;
+}
+.solid{
+    color: rgb(60, 60, 150);
+    border: 30px;
+    display: inline;
+    font-size: 50px;
+}
+.liquid{
+    color: rgb(33, 33, 202);
+    border-radius: 30px;
+    font-size: 50px;
+}
+.gas{
+    color: yellowgreen;
+    font-size: 50px;
+    border-radius: 30px;
+}
+.phone{
+    color: teal;
+    font-size: 50px;
+}
+#made{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.paid{
+    font-size: 15px
+    
+}
+.image{
+    position: absolute;
+    left: 35%;
+}
+.yes{
+    font-size: 50px;
+    color: rgb(37, 37, 155);
+    border-radius: 30px;
+    position: absolute;
+    left: 65%;
+    top: 45%;
+}
+.sell{
+    color: blueviolet;
+    position: absolute;
+    top: 118%;
+    left: 40%;
+}
+#destine{
+    position: absolute;
+    color: blueviolet;
+    top: 122%;
+    left: 35%;
+}
+.van{
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    top: 130%;
+    left: 25%;
+
+}
+.great{
+    color: blueviolet;
+    position: absolute;
+    top: 172%;
+    left: 40%;
+}
+.no{
+    position: absolute;
+    color: blueviolet;
+    top: 175%;
+    left: 35%;
+}
+.selling{
+    display: flex;
+    justify-content: space-evenly;
+    position: absolute;
+    top: 185%;
+    left: 10%;
+    
+}
+.gm{
+    background-color: wheat;
+    border-radius: 20px;
+}
+.italy{
+    background-color: white;
+    border-radius: 35px;
+}
+.locate{
+    position: absolute;
+    top: 225%;
+    left: 2%;
+    color: blue;
+}
+.nobody{
+    color: white;
+    background-color: rgb(116, 116, 44);
+    border-radius: 5px;
+    display: inline;
+    font-size: 40px;
+}
+.baby{
+    color: rgb(60, 60, 117);
+    position: absolute;
+    left: 22%;
+    top: 65%;
+}
+.inter{
+    font-size: 7px;
+    position: absolute;
+    top: 75%;
+    left: 22%;
+    color: black;
+}
+.call{
+    position: absolute;
+    top: 250%;
+    left: 2%;
+    font-size: 43px;
+    color:tomato;
+    border-radius: 15px;
+    display: inline;
+}
+.buy{
+    font-size: 10px;
+    position: absolute;
+    color: black;
+    top: 250%;
+    left: 6%;
+    line-height: 0.2;
+}
+.cab{
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    top: 259%;
+    left: 2%;
+    background-color: green;
+    border-radius: 5px;
+}
+.paty{
+    position: absolute;
+    top: 261%;
+    left: 5%;
+    font-size: 7px;
+}
+.goo{
+    position: absolute;
+    top: 235%;
+    left: 47%;
+    border-radius: 30px;
+    background-color: floralwhite;
+}
+.pity{
+    position: absolute;
+    left: 45%;
+}
+.marry{
+    color:tomato ;
+    border-radius: 30px;
+}
+.people{
+    position: absolute;
+    left: 65%;
+    border-radius:10%;
+    background-color:white;
+    top: 56%;
+}
+.sabi{
+    position: absolute;
+    top: 280%;
+    color:blueviolet;
+    left: 2%;
+
+}
+.place{
+    position:absolute;
+    top: 45%;
+    left: 115%;
+    font-size: 40px;
+    color: brown;
+}
+@media(max-width:768px){
+    .jigi{
+        font-size: 10px;
+    }
+    .live{
+        font-size: 10px;
+    }
+
+}
+
+@media(max-width:1024px){
+    .buy{
+        position: absolute;
+        left: 8%;
+        top: 260%;    }
+    .cab{
+        position: absolute;
+        top: 270%;
+    }
+    .paty{
+        position: absolute;
+        top: 270%;
+        left: 8%;
+    }
+    .call{
+        top: 260%;
+    }
+    .live{
+        font-size: 10px;
+    }
+    .demo{
+        position: absolute;
+        left: 30%;
+    }  
+    .find{
+        position: absolute;
+        top: 62%;
+    } 
+    .paid{
+        font-size: 10px;
+    } 
+}
+@media(max-width:375px){
+    .goo{
+        position: absolute;
+        left: 75%;
+    }
+
+}
+.tobi{
+    display: flex;
+    position: absolute;
+    top: 290%;
+    left: 15%;
+    font-size: 80px;
+
+}
+.labore{
+    text-align: end;
+    position: absolute;
+    left: 1000px;
+    color: brown;
+}
+.pot{
+    position: absolute;
+    left:800px;
+    color:tomato;
+}
+.jorge{
+    position: absolute;
+    left: 500px;
+}
+.gate{
+    color:black;
+    position: absolute;
+    left: 200px;
+}
+.thug{
+    position:absolute;
+    top: 310%;
+    left: 45%;
+    border-radius:10px;
+    background-color: whitesmoke;
+    text-align: center;
+}
+.night{
+    background-color: tomato;
+    text-align: center;
+    border-radius: 30px;
+    position: absolute;
+    top: 65%;
+    left: 69%;
+    color: white;  
+    font-size: 20px;
+}
+.apc{
+   position: absolute;
+   top: 310%;
+   left: 65%;
+   color: blue;
+}
+.jane{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 155%;
+    padding: 15px;
+}
+.container{
+    display: flex;
+    justify-content: space-between
+    
+}
+.gab{
+    position: absolute;
+    left: 36%;
+}
+.notice{
+    position: absolute;
+    left: 60%;
+}
+.Mmm{
+    position:absolute;
+    left: 85%;
+}
+.gop{
+    font-size: 8px;
+    margin-left: 55px;
+}
+.boots{
+    display: flex;
+    justify-content: space-around;
+}
+.cables{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    top: 343%;
+}
+.kate{
+    position: absolute;
+    left: 550px;
+}
+.jug{
+    position: absolute;
+    left: 910px;
+}
+.spoon{
+    position: absolute;
+    left: 1300px;
+}
+.suj{
+    position: absolute;
+    top: 350%;
+    left: 45%;
+    
+}
+
